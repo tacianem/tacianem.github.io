@@ -32,7 +32,7 @@
 
     /* Base Grid */
     .container .one.column,
-    .container .one.columns                     { width: 40px;  }
+    .container .one.columns                     { width: 60px;  }
     .container .two.columns                     { width: 100px; }
     .container .three.columns                   { width: 200px; }
     .container .four.columns                    { width: 220px; }
